@@ -5,7 +5,7 @@ SEO Slug URL Generator
 
 This mini function will help you to create best link for your website to better optimize search engines.
 
-## Example:
+## Example
 
 News title: PHP Slug URL Generator By Levan Lotuashvili
 
