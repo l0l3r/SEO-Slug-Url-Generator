@@ -1,4 +1,4 @@
-SEO Slug URL Generator
+SEO Slug URL Generator v1.1
 ==============
 
 ## About

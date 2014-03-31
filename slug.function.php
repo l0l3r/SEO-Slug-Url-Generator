@@ -2,7 +2,7 @@
 /*
  * @name: PHP Slug URL Generator
  * @author: GWSMaster (Levan Lotuashvili) <gwsmaster@gmail.com>
- * @version: 1.0
+ * @version: 1.1
  */
 function createSlug($slug) {
 	$lettersNumbersSpacesHypens = '/[^\-\s\pN\pL]+/u';
